@@ -23,6 +23,8 @@ For model training: Python (3.7), Keras (2.1.0) ve Tensorflow-gpu (1.14.0) were 
     * 2250 of the photographs were used for the two sets.
     * 1,687 photographs were used for training and 563 for evaluation.
     * Image dimensions 300×400 pixels
+
+### **Please see the report for detailed information.** [➡️](https://github.com/mahirezuhalozdemir/ISUR_Paper-DL_Implementation/blob/main/isur_implementation_report.pdf)
 ## Results
 <p align="center"> <img width="500"  src="https://github.com/mahirezuhalozdemir/ISUR_Paper-DL_Implementation/blob/main/img/mask_1.png?raw=true"></p>
 <p align="center"> <img width="500"  src="https://github.com/mahirezuhalozdemir/ISUR_Paper-DL_Implementation/blob/main/img/mask_2.png?raw=true"></p>
@@ -49,8 +51,12 @@ Model eğitimi için: Python (3.7), Keras (2.1.0) ve Tensorflow-gpu (1.14.0) kul
     * İki set için fotoğrafların 2250'si kullanıldı.
     * Eğitim için; 1,687 ve değerlendirme için 563 fotoğraf kullanıldı.
     * Fotoğraf boyutları: 300x400 pixel
+### **Detaylı bilgi için raporu inceleyiniz.** [➡️](https://github.com/mahirezuhalozdemir/ISUR_Paper-DL_Implementation/blob/main/isur_implementation_report.pdf)
 
 ## Sonuçlar
 <p align="center"> <img width="500"  src="https://github.com/mahirezuhalozdemir/ISUR_Paper-DL_Implementation/blob/main/img/mask_1.png?raw=true"></p>
 <p align="center"> <img width="500"  src="https://github.com/mahirezuhalozdemir/ISUR_Paper-DL_Implementation/blob/main/img/mask_2.png?raw=true"></p>
 <p align="center"> <img width="500"  src="https://github.com/mahirezuhalozdemir/ISUR_Paper-DL_Implementation/blob/main/img/mask_3.png?raw=true"></p>
+
+
+
